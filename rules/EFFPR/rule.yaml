@@ -1,0 +1,18 @@
+attribute: EFFPR
+attribute_name: "effective price"
+source_table: EINE
+criticality: High
+criticality_number: 1.0
+class: Planning
+area: Procurement
+phase: UAT
+development_owner: Rey
+run_in_engine: YES
+uat_validation_status: TO VALIDATE
+dev_comments: ""
+gpo: Direct Procurement BPO
+gpl: 
+in_md_play_book: "Attribute in PB Scope"
+dco: "[Local Vendors](Creation/Update/Deactivation): Not OM3 - Procurement - Site - Procurement Site Lead 
+[Global Vendors](Creation/Update/Deactivation): Not OM3 - Procurement - Above Site - Global Buyer Lead"
+lt: ""
