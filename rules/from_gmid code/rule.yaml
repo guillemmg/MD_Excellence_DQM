@@ -1,0 +1,19 @@
+attribute: from_gmid code
+attribute_name: "From_GMID"
+source_table: Bill of Distribution
+criticality: High
+criticality_number: 1.0
+class: Planning
+area: GSP
+phase: UAT
+development_owner: Guillem
+run_in_engine: YES
+uat_validation_status: TO VALIDATE
+dev_comments: ""
+gpo: Gloria
+gpl: 
+in_md_play_book: "Attribute in PB Scope"
+dco: "[Manufactured Materials] : OM3 - Supply Chain - Site - Supply Planner Site
+[Purchased Materials] : OM3 - Supply Chain - Site - Material Planner (Member/Leader)
+[Transfer Manufactured Materials] : OM3 - E2E SC Product Planner"
+lt: ""
